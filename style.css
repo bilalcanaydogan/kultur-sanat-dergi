@@ -94,8 +94,21 @@ a:hover{
 }
 
 .featured-section-social{
-    background-color: #434343;
+    background-color: #000;
     color: white;
     height: 55px;
     margin-top:10px;
+}
+
+.social-item-bar{
+    margin-top: 15px;
+}
+
+.social-item{
+    
+}
+
+.social-item img{
+    width: 20px;
+    height: 20px;
 }
