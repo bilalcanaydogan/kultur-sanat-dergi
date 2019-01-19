@@ -127,6 +127,7 @@ a:hover{
 
 .content-item-image img{
     width: 358px;
+    height:500px;
 }
 
 .content-item-text{
@@ -138,7 +139,7 @@ a:hover{
 
 
 .content-item-image-ust img{
-    width: 525px;
+    width: 500px;
 }
 
 
